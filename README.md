@@ -21,7 +21,7 @@ $ git push origin main
 
 $ git status
 
--- Go to python file, change "Hello world" to "Hello nether"
+-- Go to python file on GitHub, change "Hello world" to "Hello nether" (simulates another user pushing up changes to same file)
 
 $ git pull origin master
 
