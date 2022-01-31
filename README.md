@@ -23,6 +23,7 @@ $ git commit -m "Added python file"
 -- Get repository key 
 
 $ git push origin main
-This will then ask for user name and password; get repository key from (Canvas/Courses/Discussions) then enter it here. It should then push, and you can then go to the github repository and submit a pull request. After that I can accept and merge the changes.
+
+- This will then ask for user name and password; get repository key from (Canvas/Courses/Discussions) then enter it here. It should then push, and you can then go to the github repository and submit a pull request. After that I can accept and merge the changes. -
 
 $ git status
