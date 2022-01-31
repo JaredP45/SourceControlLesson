@@ -1,3 +1,8 @@
+###IMPORTANT###
+Get the repository key in the class discussions (Courses/Discussions).
+I suppose you could create a basic python script and then just push it up with the key. Once pushed, go back to the repository on GitHub (here) and then click "Create Pull Request" and submit that. Once I see the changes I'll merge it with the repository.
+
+
 # SourceControlLesson
 Example source control lesson for class on Jan 25.
 
